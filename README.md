@@ -12,4 +12,4 @@ Within this repository, you'll find a curated collection of diagrams showcasing 
 
 ## International Organization for Standardization
 
-- [Implementation of ISO 22301](./iso/iso-22301-implementation.arch.excalidraw.svg)s
+- [Implementation of ISO 22301](./iso/iso-22301/implementation-process.iso.excalidraw.svg)
