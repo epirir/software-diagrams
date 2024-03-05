@@ -9,6 +9,7 @@ Within this repository, you'll find a curated collection of diagrams showcasing 
 - [Bank Security Classic Architecture](./architecture/bank-security-classic.arch.excalidraw.svg)
 - [Intrusion Detection System](./architecture/IDS-components.arch.excalidraw.svg)
 - [Role Based Access Control](./architecture/role-based-auth.arch.excalidraw.svg)
+- [gPRC Architecture](./architecture/gprc.arch.md)
 
 ## International Organization for Standardization
 
